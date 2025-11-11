@@ -1,0 +1,11 @@
+# Bağımlılıklar
+/node_modules
+
+# Next.js derleme çıktıları
+/.next
+
+# Gizli ortam değişkenleri
+.env.local
+
+# macOS sistem dosyası
+.DS_Store
